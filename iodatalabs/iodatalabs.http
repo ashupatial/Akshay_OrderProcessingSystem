@@ -1,0 +1,6 @@
+@iodatalabs_HostAddress = http://localhost:5049
+
+GET {{iodatalabs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
