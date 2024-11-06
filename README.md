@@ -7,4 +7,4 @@ A simplified order processing system built with .NET Core, designed to manage cu
 ## Project Setup Instructions
 
 1. **Clone the Repository**:
-   git clone https://github.com/Akshay/Akshay_OrderProcessingSystem.git
+   git clone https://github.com/ashupatial/Akshay_OrderProcessingSystem.git
